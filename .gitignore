@@ -1,0 +1,15 @@
+# PC kit runtime files
+pc/.venv/
+pc/tools/
+pc/scans/
+pc/config.json
+__pycache__/
+*.pyc
+
+# Android build output
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+.idea/
+*.iml

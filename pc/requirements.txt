@@ -1,0 +1,10 @@
+numpy
+opencv-contrib-python>=4.8
+open3d>=0.18
+trimesh>=4.0
+scipy
+reportlab
+matplotlib
+mapbox-earcut
+shapely
+rtree

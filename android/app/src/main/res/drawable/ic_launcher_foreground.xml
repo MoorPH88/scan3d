@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Isometric cube inside scan brackets -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path android:fillColor="#FF7FC4FF" android:pathData="M54,33 L72,43.5 L54,54 L36,43.5 Z" />
+    <path android:fillColor="#FF3D8FE0" android:pathData="M36,43.5 L54,54 L54,75 L36,64.5 Z" />
+    <path android:fillColor="#FF2563A8" android:pathData="M72,43.5 L54,54 L54,75 L72,64.5 Z" />
+    <path android:strokeColor="#FFFFFFFF" android:strokeWidth="3" android:strokeLineCap="round"
+        android:pathData="M30,38 L30,30 L38,30 M70,30 L78,30 L78,38 M78,70 L78,78 L70,78 M38,78 L30,78 L30,70" />
+</vector>
